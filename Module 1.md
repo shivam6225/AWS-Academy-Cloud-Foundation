@@ -9,3 +9,6 @@
 
 ### AWS owns and maintains the hardware ,while you provision and use what you need
 #### True
+
+### Not the Benfit of Cloud Computing over on-premises computing
+#### Paying for Racking , stacking and powering servers
