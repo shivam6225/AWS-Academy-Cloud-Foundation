@@ -6,3 +6,6 @@
 
 ### Not a Cloud Computing Model
 #### System Administration as a service
+
+### AWS owns and maintains the hardware ,while you provision and use what you need
+#### True
