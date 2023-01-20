@@ -11,4 +11,4 @@
 #### True
 
 ### Not the Benfit of Cloud Computing over on-premises computing
-#### Paying for Racking , stacking and powering servers
+#### Paying for Racking , stacking and powering server
