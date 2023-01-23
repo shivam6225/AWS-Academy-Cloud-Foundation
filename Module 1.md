@@ -12,3 +12,6 @@
 
 ### Not the Benfit of Cloud Computing over on-premises computing
 #### Paying for Racking , stacking and powering servers
+
+### Not Benefit of AWS Cloud Computing
+#### High Latency and Multiple Procurement cycles
