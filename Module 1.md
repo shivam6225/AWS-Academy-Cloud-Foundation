@@ -14,4 +14,4 @@
 #### Paying for Racking , stacking and powering servers
 
 ### Not Benefit of AWS Cloud Computing
-#### High Latency and Multiple Procurement cycle
+#### High Latency and Multiple Procurement cycles
