@@ -15,3 +15,6 @@
 
 ### Not Benefit of AWS Cloud Computing
 #### High Latency and Multiple Procurement cycles
+
+### Following is a Computer Service
+#### EC2
