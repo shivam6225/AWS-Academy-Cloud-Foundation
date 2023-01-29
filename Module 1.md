@@ -19,6 +19,6 @@
 ### Following is a Computer Service
 #### EC2
 
-### Cloud Computing Provides a simple way to access servers , storages , databases, and a board set of application services over the internet. You own the network-connected hardware required for these services and Amazon Web Services provisions what you need
+### Cloud Computing Provides a simple way to access servers , storages , databases, and a board set of application services over the internet. You own the network-connected hardware required for these services and Amazon Web Services provisions what you need? True or False
 
 #### True
